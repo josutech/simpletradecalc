@@ -14,12 +14,6 @@ Esta es una calculadora simple y efectiva hecha en **HTML, CSS y JavaScript** pa
 
 ---
 
-## 🧪 Demo
-
-> Próximamente: Puedes subir una demo en GitHub Pages o CodePen y añadir el link aquí.
-
----
-
 ## 🚀 Cómo usar
 
 1. Clona este repositorio o descarga los archivos:
